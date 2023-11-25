@@ -1,0 +1,3 @@
+[submodule "examples/nd_blender/external/fmt"]
+	path = examples/nd_blender/external/fmt
+	url = https://github.com/fmtlib/fmt/

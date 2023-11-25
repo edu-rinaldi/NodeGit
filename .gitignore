@@ -1,0 +1,43 @@
+x64
+
+build
+Build
+
+# ignore make and cmake not useful files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# ignore vscode stuff
+.vs
+
+# ignore imgui
+imgui.ini
+
+# ignore files in root
+/*.json
+/*.png
+/*.jpg
+/*.jpeg
+/*.svg
+
+# ignore folders in root
+Out
+out
+Bin
+bin
+build
+Build
+builds
+Builds
+
+# python
+**/__pycache__

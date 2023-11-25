@@ -1,0 +1,17 @@
+﻿BasedOnStyle: Microsoft
+AlignConsecutiveAssignments: 'true'
+AllowAllParametersOfDeclarationOnNextLine: 'true'
+AllowShortBlocksOnASingleLine: 'true'
+AllowShortCaseLabelsOnASingleLine: 'true'
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: Always
+AllowShortLambdasOnASingleLine: All
+AlwaysBreakTemplateDeclarations: 'Yes'
+IncludeBlocks: Regroup
+Language: Cpp
+NamespaceIndentation: Inner
+PointerAlignment: Left
+SortIncludes: 'true'
+SpacesInSquareBrackets: 'false'
+TabWidth: '4'
+UseTab: Always
